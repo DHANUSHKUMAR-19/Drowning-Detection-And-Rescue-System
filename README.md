@@ -40,6 +40,6 @@ To run the program, follow these steps:
 5. To quit the program, press the "q" key on your keyboard.
 
 ## Team
-Dhanush Kumar
-Durgaprasad
+Dhanush Kumar,
+Durgaprasad,
 Nishanth N
